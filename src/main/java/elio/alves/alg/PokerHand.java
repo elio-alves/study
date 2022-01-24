@@ -3,7 +3,7 @@
  * To change this template file, choose Tools | Templates
  * and open the template in the editor.
  */
-package elio.alves;
+package elio.alves.alg;
 
 import java.util.Collections;
 import java.util.HashMap;
